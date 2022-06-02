@@ -565,7 +565,7 @@
     }
 }
 .animation{
-    animation: 5s linear 0s infinite normal none running czvto;
+    animation: 40s linear 0s infinite normal none running czvto;
     min-width: 2800px;
     display: flex;
     transform: translateZ(0);
